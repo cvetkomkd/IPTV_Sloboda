@@ -1,9 +1,14 @@
 #EXTM3U
 #EXTINF:-1, MTV1
-https://vod-c57.interspace.com/channel_abr/42/receiver/42_p3/chunks.m3u8?nimblesessionid=1056573&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIyIDI6MTY6MDIgUE0maGFzaF92YWx1ZT0rOXg5MmlZVW9uWEtkdnZGeTh3VkJBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyMGE2NDIyYjU5MzA=
+https://vod-c57.interspace.com/channel_abr/42/receiver/42_p3/chunks.m3u8
 #EXTINF:-1, MTV SPORT
-https://vod-c57.interspace.com/channel_abr/658323455489957/receiver/658323455489957_p3/chunks.m3u8?nimblesessionid=1056630&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIyIDI6MzE6NTQgUE0maGFzaF92YWx1ZT00OW9mamRhM1JpR1o2V0FjUjdxYlNRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyMGE2N2RhZTExMTg=
+https://vod-c57.interspace.com/channel_abr/658323455489957/receiver/658323455489957_p3/chunks.m3u8
 #EXTINF:-1, MTV DETSKI
-https://vod-c57.interspace.com/channel_abr/553171400681132/receiver/553171400681132_p3/chunks.m3u8?nimblesessionid=1056679&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIyIDI6Mzc6NDMgUE0maGFzaF92YWx1ZT1HZ3dlVkdDVnFMSWJTdERzbHNSV0N3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyMGE2OTM3NDg3NTU=
+https://vod-c57.interspace.com/channel_abr/553171400681132/receiver/553171400681132_p3/chunks.m3u8
+#EXTINF:-1,MTV SAT 1
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8
 #EXTINF:-1, SITEL 1
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1, KANAL5
+https://vipottbpkcdn06.vip.hr/bpk-token/kaq0qmwi5iaaaaaaayqcmucaaaaaaaaaaaamdzehdsmiu1qg/0001263/Stream(04)/index.m3u8
+#EXTINF:-1, 
