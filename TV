@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, MTV1
-https://vod-c57.interspace.com/channel_abr/42/receiver/42_p3/chunks.m3u8
+https://vod-c57.interspace.com/channel_abr/42/receiver/42_p3/chunks.m3u8?nimblesessionid=1072025&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDI6MjU6MTcgUE0maGFzaF92YWx1ZT1IVUpBbzlYcFJjZFBLaW83N00rZE1nPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyMGQwOTRkOThjMGM=
 #EXTINF:-1, MTV SPORT
 https://vod-c57.interspace.com/channel_abr/658323455489957/receiver/658323455489957_p3/chunks.m3u8
 #EXTINF:-1, MTV DETSKI
